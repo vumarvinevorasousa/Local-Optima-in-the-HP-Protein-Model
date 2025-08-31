@@ -1,4 +1,4 @@
-This github contains the files with the code written for the Master Thesis:
+This github page contains the files with the code written for the Master Thesis:
 
 "Local Optima Within the HP-Protein Model and What This Means For Alzheimer's Disease" by Marvin Évora Sousa.
 
